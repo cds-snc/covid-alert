@@ -1,3 +1,4 @@
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app)
-- [covid-alert-server](https://github.com/cds-snc/covid-alert-server)
+- [covid-alert-documentation](https://github.com/cds-snc/covid-alert-documentation)
 - [covid-alert-portal](https://github.com/cds-snc/covid-alert-portal)
+- [covid-alert-server](https://github.com/cds-snc/covid-alert-server)
